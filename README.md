@@ -17,8 +17,6 @@ Supports community groups, posts, comments, and member management.
 ## Files Included
 /sql
 Contains SQL scripts for creating all database tables and defining relationships.
-README.md
-Provides an overview and documentation for the database schema.
 ## Technologies Used
 - PostgreSQL
 - DBeaver (for query execution and design)
