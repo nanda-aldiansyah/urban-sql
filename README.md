@@ -1,5 +1,5 @@
 # Urban App Database Schema (SQL)
-This repository contains the SQL schema for the Urban application, a multifunctional city-assistance platform designed to support various daily needs of urban residents. The database structure supports five main features: emergency requests, public reporting, health service registration, route management, and community interaction.
+This repository contains the SQL schema for the Urang Bandung "Urban" application, a multifunctional city-assistance platform designed to support various daily needs of urban residents. The database structure supports five main features: emergency requests, public reporting, health service registration, route management, and community interaction.
 ## Overview
 Urang Bandung "Urban" is an application prototype built to simplify citizen access to essential city services. The database schema is designed to store user information, manage emergency reports, handle public issue submissions, track health service registrations, save travel routes, and support community discussions.
 The SQL schema was developed using PostgreSQL and follows a normalized structure with foreign-key relationships across core tables.
